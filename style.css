@@ -1,0 +1,27 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+body{
+    background:#333;
+    color:#fff;
+    text-align:center;
+    padding:3rem;
+}
+
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style:italic;
+    margin-bottom:2rem;
+    color:orange;
+}
+
+p{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style:underline;
+    letter-spacing: 0.05rem;
+    color:sandybrown;
+    font-size:1.3rem;
+}
